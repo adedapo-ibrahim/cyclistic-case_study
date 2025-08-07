@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adedapo-ibrahim
 - 👀 I’m interested in robotics engineering
-- 🌱 I’m currently learning mechanics of material
-- 💞️ I’m looking to collaborate on robotics project
+- 👀 I'm interested in data anlytics
+- 💞️ I’m looking to collaborate on data analytics project
 - 📫 You can reach me by adedapoibrahim537@gmail.com
 
 <!---
